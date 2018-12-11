@@ -1,6 +1,6 @@
-﻿token= 
-owner= 
-prefix= 
-game= help
+token= NTIyMDY0NDQ0MzgyMTE3ODg4.DvFiyw.LTObla2VnU6W_2PbEe89lFHdSjc
+owner= 450973027853664256
+prefix= 3
+game= Pure Server
 stayinchannel=true 
-songinstatus=true 
+songinstatus=false 
